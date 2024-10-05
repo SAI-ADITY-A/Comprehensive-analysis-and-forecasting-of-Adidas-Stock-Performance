@@ -34,6 +34,9 @@ This repository contains the code and documentation for a comprehensive analysis
 ## Project Structure
 
 Adidas_EDA.ipynb: Jupyter notebook containing the EDA code.
+
 Adidas_Stock_Analysis.ipynb: Jupyter notebook containing the forecasting code.
+
 data/: Folder containing datasets used in the analysis.
+
 results/: Folder for storing output graphs and forecasting results.
